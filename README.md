@@ -6,11 +6,8 @@ O objetivo foi transformar dados brutos tratados em um projeto anterior em insig
 A análise permite identificar:
 
 Os produtos mais calóricos do mercado
-
 Produtos que ultrapassam o limite diário recomendado de sódio
-
 Produtos que excedem o limite ideal de açúcar
-
 Comparação nutricional entre empresas
 
 
@@ -19,61 +16,44 @@ Comparação nutricional entre empresas
 
 O projeto foi desenvolvido para responder às seguintes perguntas:
 
-Quais são os 5 produtos mais calóricos independentemente da empresa?
-
+Quais são os 4 produtos mais calóricos independentemente da empresa?
 Qual empresa possui maior proporção de produtos extremamente calóricos?
-
 Quantos produtos ultrapassam o limite ideal diário de açúcar (25g segundo a OMS)?
-
 Qual o percentual do limite diário de sódio que cada produto representa?
+Existem informações omitidas? 
 
 🧠 Base Conceitual
 
 As classificações nutricionais foram fundamentadas nas diretrizes da OMS:
-
 Açúcares livres:
 
 Ideal: < 5% da ingestão calórica diária (~25g/dia)
-
 Máximo recomendado: < 10% (~50g/dia)
 
 Sódio:
-
 Limite máximo recomendado: 2000 mg/dia
 
 Calorias:
-
 Base de referência: 2000 kcal/dia (adulto médio)
 
 🛠 Tecnologias Utilizadas
 
 Power BI Desktop
-
 DAX para criação de métricas e classificações
 
 
-📈 Principais Técnicas Aplicadas
+📈 Principais Técnicas Aplicadas:
 
-Criação de colunas calculadas com SWITCH e lógica condicional
-
+Criação de colunas calculadas e medidas
 Classificação nutricional automática
-
-Cálculo de percentual de ingestão diária
-
 Análise comparativa entre empresas
-
 Estruturação de dashboard executivo
 
 Padronização e transformação de dados no Power Query
-
 Durante o processo de tratamento dos dados, foi necessário ajustar a configuração regional (locale) para Inglês – Estados Unidos (en-US), garantindo:
-
 Correta interpretação de separadores decimais
-
 Padronização de formatos numéricos
-
 Conversão adequada de medidas (ex: gramas, miligramas e calorias)
-
 Compatibilidade com a estrutura original da base de dados
 
 📊 Resultado
@@ -83,13 +63,10 @@ O dashboard permite visualizar de forma clara e estratégica o impacto nutricion
 O projeto demonstra competências em:
 
 Transformação de dados em insights
-
 Construção de indicadores baseados em diretrizes oficiais
-
 Análise exploratória
-
 Storytelling com dados
 
-link powerbi : https://app.powerbi.com/links/j2VjfUu1i4?ctid=1c5fbf76-4df8-48d6-a2cb-ad414a9ba490&pbi_source=linkShare
+
 
 
