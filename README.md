@@ -1,7 +1,7 @@
 # DashBoard-Nutricional
 Este projeto consiste na construção de um dashboard interativo em Power BI para análise nutricional de produtos de grandes redes de fast food.
 
-O objetivo foi transformar dados brutos em insights estratégicos, avaliando o teor de açúcar, sódio e calorias dos produtos com base nas recomendações oficiais da Organização Mundial da Saúde (OMS).
+O objetivo foi transformar dados brutos tratados em um projeto anterior em insights estratégicos, avaliando o teor de açúcar, sódio e calorias dos produtos com base nas recomendações oficiais da Organização Mundial da Saúde (OMS).
 
 A análise permite identificar:
 
@@ -63,6 +63,18 @@ Cálculo de percentual de ingestão diária
 Análise comparativa entre empresas
 
 Estruturação de dashboard executivo
+
+Padronização e transformação de dados no Power Query
+
+Durante o processo de tratamento dos dados, foi necessário ajustar a configuração regional (locale) para Inglês – Estados Unidos (en-US), garantindo:
+
+Correta interpretação de separadores decimais
+
+Padronização de formatos numéricos
+
+Conversão adequada de medidas (ex: gramas, miligramas e calorias)
+
+Compatibilidade com a estrutura original da base de dados
 
 📊 Resultado
 
