@@ -89,3 +89,7 @@ Construção de indicadores baseados em diretrizes oficiais
 Análise exploratória
 
 Storytelling com dados
+
+link powerbi : https://app.powerbi.com/links/j2VjfUu1i4?ctid=1c5fbf76-4df8-48d6-a2cb-ad414a9ba490&pbi_source=linkShare
+
+
