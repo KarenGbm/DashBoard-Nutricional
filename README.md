@@ -6,8 +6,11 @@ O objetivo foi transformar dados brutos tratados em um projeto anterior em insig
 A análise permite identificar:
 
 Os produtos mais calóricos do mercado
+
 Produtos que ultrapassam o limite diário recomendado de sódio
+
 Produtos que excedem o limite ideal de açúcar
+
 Comparação nutricional entre empresas
 
 
@@ -17,9 +20,13 @@ Comparação nutricional entre empresas
 O projeto foi desenvolvido para responder às seguintes perguntas:
 
 Quais são os 4 produtos mais calóricos independentemente da empresa?
+
 Qual empresa possui maior proporção de produtos extremamente calóricos?
+
 Quantos produtos ultrapassam o limite ideal diário de açúcar (25g segundo a OMS)?
+
 Qual o percentual do limite diário de sódio que cada produto representa?
+
 Existem informações omitidas? 
 
 🧠 Base Conceitual
@@ -45,15 +52,21 @@ DAX para criação de métricas e classificações
 📈 Principais Técnicas Aplicadas:
 
 Criação de colunas calculadas e medidas
+
 Classificação nutricional automática
+
 Análise comparativa entre empresas
+
 Estruturação de dashboard executivo
 
 Padronização e transformação de dados no Power Query
-Durante o processo de tratamento dos dados, foi necessário ajustar a configuração regional (locale) para Inglês – Estados Unidos (en-US), garantindo:
-Correta interpretação de separadores decimais
+
+(Durante o processo de tratamento dos dados, foi necessário ajustar a configuração regional (locale) para Inglês – Estados Unidos (en-US), garantindo:
+Correta interpretação de separadores decimais)
+
 Padronização de formatos numéricos
 Conversão adequada de medidas (ex: gramas, miligramas e calorias)
+
 Compatibilidade com a estrutura original da base de dados
 
 📊 Resultado
@@ -63,8 +76,11 @@ O dashboard permite visualizar de forma clara e estratégica o impacto nutricion
 O projeto demonstra competências em:
 
 Transformação de dados em insights
+
 Construção de indicadores baseados em diretrizes oficiais
+
 Análise exploratória
+
 Storytelling com dados
 
 
